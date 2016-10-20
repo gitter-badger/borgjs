@@ -1,4 +1,6 @@
 # 📦 borgjs
+
+[![Join the chat at https://gitter.im/borgjs/Lobby](https://badges.gitter.im/borgjs/Lobby.svg)](https://gitter.im/borgjs/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 [![Travis](https://img.shields.io/travis/vesparny/borgjs.svg)](https://travis-ci.org/vesparny/borgjs)
 [![npm](https://img.shields.io/npm/dm/borgjs.svg)](https://npm-stat.com/charts.html?package=borgjs&from=2016-10-17)
